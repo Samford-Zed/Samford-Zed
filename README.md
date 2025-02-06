@@ -23,5 +23,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Samford-Zed&show_icons=true&locale=en" alt="Samford-Zed" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Samford-Zed&" alt="Samford-Zed" /></p>
+<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Samford-Zed&" alt="Samford-Zed" /></p>-->
 
