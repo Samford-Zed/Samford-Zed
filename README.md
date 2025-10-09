@@ -54,14 +54,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Samford-Zed&theme=radical" width="70%"/>
+  <img src="https://github-readme-streak-stats.vercel.app/?user=Samford-Zed&theme=radical&hide_border=false" alt="GitHub Streak" />
 </p>
 
----
 
-### 🧠 Fun Quote
 
-> “First, solve the problem. Then, write the code.” – John Johnson
-
----
 
