@@ -16,21 +16,21 @@
 - 🌱 I’m currently learning **React.js, TypeScript & Spring Boot**
 - 📫 Reach me at: **samizenebe508@gmail.com**
 - 💼 Open to freelance or remote full-stack opportunities
-- ⚡ Fun fact: **I’m funny & love solving bugs like puzzles**
+- ⚡ Fun fact: **I love solving bugs like puzzles**
 
 ---
 
-### 🌐 Connect with me:
+### 🌐 Connect with Me
 
 <p align="left">
   <a href="mailto:samizenebe508@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/samuelzenebe"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://@samplehu.com/"><img src="https://img.shields.io/badge/Telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
 
 ---
 
-### 🛠️ Languages & Tools:
+### 🛠️ Languages & Tools
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
@@ -42,20 +42,35 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+
 </p>
 
 ---
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Samford-Zed&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samford-Zed&layout=compact&theme=radical" width="48%" />
-</p>
+<table>
+  <tr>
+    <td align="center" style="background-color: white; border-radius: 12px; padding: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+      <b>Most Used Languages</b><br/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samford-Zed&layout=compact&theme=default&langs_count=6&hide_border=true" />
+    </td>
+    <td align="center" style="background-color: white; border-radius: 12px; padding: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+      <b>Samuel Zenebe's GitHub Stats</b><br/>
+      <img src="https://github-readme-stats.vercel.app/api?username=Samford-Zed&show_icons=true&theme=default&hide_border=true" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" style="background-color: white; border-radius: 12px; padding: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+      <b>Contribution Streak</b><br/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Samford-Zed&theme=default&hide_border=true"/>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=Samford-Zed&theme=radical&hide_border=false" alt="GitHub Streak" />
-</p>
+
+
 
 
 
