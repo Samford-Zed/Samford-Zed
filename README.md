@@ -5,11 +5,6 @@
   <img src="https://img.freepik.com/premium-vector/illustration-web-development-programmer-coding-website_746655-2881.jpg" alt="Coding" width="400"/>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Samford-Zed&label=Profile%20views&color=0e75b6&style=flat" alt="Samford-Zed" />
-</p>
-
----
 
 ### 🔭 About Me
 
@@ -18,7 +13,6 @@
 - 💼 Open to freelance or remote full-stack opportunities
 - ⚡ Fun fact: **I love solving bugs like puzzles**
 
----
 
 ### 🌐 Connect with Me
 
@@ -36,9 +30,6 @@
 
 
 
-
----
-
 ### 🛠️ Languages & Tools
 
 <p align="left">
@@ -55,7 +46,6 @@
 
 </p>
 
----
 
 ### 📊 GitHub Stats
 
