@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Samuel Zenebe</h1> 
 <h3 align="center">A passionate Full Stack Developer from Ethiopia 🇪🇹</h3>
 
-<p align="center">
-  <img src="https://img.freepik.com/premium-vector/illustration-web-development-programmer-coding-website_746655-2881.jpg" alt="Coding" width="400"/>
-</p>
-
 
 ### 🔭 About Me
 
