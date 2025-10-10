@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Samuel Zenebe</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F793&width=600&lines=Full+Stack+Web+Developer+from+Ethiopia;Experienced+with+Spring+Boot+and+Java;Frontend+with+React+and+TypeScript;Building+Scalable+Backend+Solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F793&width=600&lines=Full+Stack+Web+Developer+from+Ethiopia;Experienced+with+Spring+Boot+and+Java;Frontend+with+React+and+TypeScript)](https://git.io/typing-svg)
 
 
 
