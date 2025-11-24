@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Samuel Zenebe</h1>
+[<h1 align="center">Hi 👋, I'm Samuel Zenebe</h1>
 
 [[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F793&width=600&lines=Full+Stack+Web+Developer+from+Ethiopia;Experienced+with+Spring+Boot+and+Java;Frontend+with+React+and+TypeScript)](https://git.io/typing-svg)](https://github-readme-streak-stats.herokuapp.com/?user=Samford-Zed&theme=default&hide_border=true
 )
@@ -59,15 +59,16 @@
       <img src="https://github-readme-stats.vercel.app/api?username=Samford-Zed&show_icons=true&theme=default&hide_border=true" />
     </td>
   </tr>
-  <tr>
-    <td colspan="2" align="center" style="background-color: white; border-radius: 12px; padding: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-      <b>GitHub Streak</b><br/>
-      <img 
-        src="https://github-readme-streak-stats-gamma-topaz.vercel.app?user=Samford-Zed&theme=default&hide_border=true&background=FFFFFF"
-        alt="GitHub Streak"
-      >
-    </td>
-  </tr>
+### 🔥 GitHub Streak
+
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=Samford-Zed&theme=default&hide_border=true" 
+    alt="GitHub Streak"
+  />
+</p>
+
+
 </table>
 
 
@@ -79,3 +80,5 @@
 
 
 
+](https://github.com/Samford-Zed
+)
