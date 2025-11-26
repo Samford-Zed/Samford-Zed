@@ -47,6 +47,7 @@
 
 ### 📊 GitHub Stats
 
+
 <table>
   <tr>
     <td align="center" style="background-color: white; border-radius: 12px; padding: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
@@ -64,9 +65,10 @@
       <img 
         src="https://github-readme-streak-stats-gamma-topaz.vercel.app?user=Samford-Zed&theme=default&hide_border=true&background=FFFFFF"
         alt="GitHub Streak"
-      >
+      />
     </td>
   </tr>
 </table>
+
 
 
