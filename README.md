@@ -9,6 +9,7 @@
 - 🌱 Exploring full-stack development with React.js, TypeScript, and Spring Boot
 - 💼 Open to freelance or remote full-stack opportunities
 - ⚡ Fun fact: **I love solving bugs like puzzles**
+- 📫 Reach me at: samizenebe508@gmail.com
 
 
 ### 🌐 Connect with Me
