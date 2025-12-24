@@ -6,7 +6,7 @@
 
 ### 🔭 About Me
 
-- 🌱 I’m currently learning **React.js, TypeScript & Spring Boot**
+- 🌱 Exploring full-stack development with React.js, TypeScript, and Spring Boot
 - 💼 Open to freelance or remote full-stack opportunities
 - ⚡ Fun fact: **I love solving bugs like puzzles**
 
