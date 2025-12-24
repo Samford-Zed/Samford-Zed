@@ -7,7 +7,6 @@
 ### 🔭 About Me
 
 - 🌱 I’m currently learning **React.js, TypeScript & Spring Boot**
-- 📫 Reach me at: **samizenebe508@gmail.com**
 - 💼 Open to freelance or remote full-stack opportunities
 - ⚡ Fun fact: **I love solving bugs like puzzles**
 
