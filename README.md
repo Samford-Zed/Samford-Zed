@@ -67,7 +67,7 @@
       <img 
         src="https://nirzak-streak-stats.vercel.app/?user=Samford-Zed&theme=default&hide_border=false"
         alt="GitHub Streak"
-      />......
+      />
 
   </tr>
 </table>
