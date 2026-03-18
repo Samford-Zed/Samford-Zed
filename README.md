@@ -34,7 +34,6 @@
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/telegram.svg" width="40"/>
   </a>
 </p>
----
 
 ## 🛠️ Tech Stack
 
