@@ -25,16 +25,15 @@
 
 <p align="left">
   <a href="mailto:samizenebe508@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40"/>
   </a>
   <a href="https://linkedin.com/in/samuelzenebe">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
   </a>
   <a href="https://t.me/samplehu">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/telegram.svg" width="40"/>
   </a>
 </p>
-
 ---
 
 ## 🛠️ Tech Stack
@@ -75,21 +74,33 @@
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Samford-Zed&show_icons=true&theme=default" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samford-Zed&layout=compact" />
-</p>
+<table>
+  <tr>
+    <td align="center" style="background-color: white; border-radius: 12px; padding: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+      <b>Most Used Languages</b><br/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samford-Zed&layout=compact&theme=default&langs_count=6&hide_border=true" />
+    </td>
+    <td align="center" style="background-color: white; border-radius: 12px; padding: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+      <b>Samuel Zenebe's GitHub Stats</b><br/>
+      <img src="https://github-readme-stats.vercel.app/api?username=Samford-Zed&show_icons=true&theme=default&hide_border=true" />
+    </td>
+ 
 
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Samford-Zed" />
-</p>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" style="background-color: white; border-radius: 12px; padding: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+      <b>GitHub Streak</b><br/>
+      <img 
+        src="https://nirzak-streak-stats.vercel.app/?user=Samford-Zed&theme=default&hide_border=false"
+        alt="GitHub Streak"
+      />
 
----
+  </tr>
+</table>
+
 
 ## ✨ Highlights
 
@@ -99,3 +110,4 @@
 - 🔹 Exploring mobile apps with Flutter
 
 ---
+
