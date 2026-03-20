@@ -21,6 +21,12 @@
 
 ---
 
+<a href="https://drive.google.com/file/d/1ONyiB3RWKWt6UQlSzsjWmnlLqh0OVl71/view?usp=sharing" target="_blank">
+  <img src="https://img.shields.io/badge/Resume-View%20PDF-orange?style=for-the-badge"/>
+</a>
+
+---
+
 ## 🌐 Connect With Me
 
 <p align="left">
