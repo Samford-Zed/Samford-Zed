@@ -78,17 +78,19 @@
       <img src="https://github-readme-stats.vercel.app/api?username=Samford-Zed&show_icons=true&theme=default&hide_border=true" />
     </td>
  
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Capechusami&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true"/>
+
+  <img height="170" src="https://streak-stats.demolab.com?user=Samford-Zed&theme=tokyonight&hide_border=true"/>
 
   </tr>
-  <tr>
-    <td colspan="2" align="center" style="background-color: white; border-radius: 12px; padding: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-      <b>GitHub Streak</b><br/>
-      <img 
-        src="https://nirzak-streak-stats.vercel.app/?user=Samford-Zed&theme=default&hide_border=false"
-        alt="GitHub Streak"
-      />
 
-  </tr>
+
+
+
+  <div align="center">
+ 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Samford-Zed&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 </table>
 
 
