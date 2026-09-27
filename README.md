@@ -81,8 +81,7 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Samford-Zed
     &show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true"/>
 
-  <img height="170" src="https://streak-stats.demolab.com?user=Samford-Zed&theme=tokyonight&hide_border=true"/>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Samford-Zed&" alt="giftiy" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Samford-Zed&" alt="sammy" /></p>
 
   </tr>
 
