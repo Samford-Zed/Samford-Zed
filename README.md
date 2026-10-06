@@ -41,6 +41,8 @@
   </a>
 </p>
 
+---
+
 ## 🛠️ Tech Stack
 
 <p>
@@ -64,36 +66,26 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
 </p>
 
-### 📊 GitHub Stats
+---
 
+## 📊 GitHub Stats
 
 <table>
   <tr>
-   
-      <b>Most Used Languages</b><br/>
+    <td align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samford-Zed&layout=compact&theme=default&langs_count=6&hide_border=true" />
     </td>
-    <td align="center" style="background-color: white; border-radius: 12px; padding: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-      <b>Samuel Zenebe's GitHub Stats</b><br/>
-      <img src="https://github-readme-stats.vercel.app/api?username=Samford-Zed&show_icons=true&theme=default&hide_border=true" />
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Samford-Zed&show_icons=true&include_all_commits=true&count_private=true&theme=default&hide_border=true" />
     </td>
- 
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Samford-Zed
-    &show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true"/>
-
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Samford-Zed&" alt="sammy" /></p>
-
   </tr>
-
-
-
-
-  <div align="center">
- 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Samford-Zed&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
 </table>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Samford-Zed&theme=default&hide_border=true" alt="Samuel's GitHub streak" />
+</p>
+
+---
 
 ## ✨ Highlights
 
@@ -101,6 +93,3 @@
 - 🔹 Designed REST APIs with authentication (JWT)
 - 🔹 Experience with PostgreSQL & system design
 - 🔹 Exploring mobile apps with Flutter
-
----
-
