@@ -69,7 +69,7 @@
 
 <table>
   <tr>
-    <td align="center" style="background-color: white; border-radius: 12px; padding: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+   
       <b>Most Used Languages</b><br/>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samford-Zed&layout=compact&theme=default&langs_count=6&hide_border=true" />
     </td>
